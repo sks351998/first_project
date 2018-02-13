@@ -1,0 +1,136 @@
+<html>
+    <head>
+        <title>Lifestyle Stores</title>
+        <link rel="stylesheet" type="text/css" href="assingment 1 css.css">
+    </head>
+    <body>
+        <div class="header">
+            <div class="inner_header">
+                <a href="#" class="logo">Lifestyle Stores</a>
+            <nav>
+               <ul>
+                    <li>login</li>
+                    <li>Sing Up</li>
+                   
+                </ul>
+            </nav>
+            </div>
+        </div>
+        <div class="content">
+        <div id="banner">
+            <div class="inner-banner">
+            <center>
+            <div class="banner_content">
+                <h2>We Sell Lifestyle</h2>
+                <h4>Flat 40% OFF on premium brands</h4>
+                <a href="#" class="button">Shop now</a>
+                    
+            </div>   
+            </div>
+                </center>
+        </div>
+        </div>
+        <div class="container">
+            <div class="item">
+                <a href="#"> <img src="https://assets.pcmag.com/media/images/524622-nikon-d500.jpg?thumb=y" alt="camera" class="thumbnail">
+            <div class="caption">
+                <h3>Cameras</h3>
+            <p>choose amonng the best cameras</p>
+            </div>
+            </a>
+            </div>
+        <div class="item">
+                <a href="#"><img src="http://media.tiffany.com/is/image/Tiffany/1X/20160322_CB_Tiffany_View_All_Browse_Grid_Tile1_3x2Promo_US_CT60_Watches_3x2_v1.jpg?v=20161026164214" alt="watches" class="thumbnail">
+          <div class="caption">
+                    <h3>Watches</h3>
+            <p>
+                Original watches from the best brand
+            </p>
+          </div>
+                </a>
+            </div>
+            <div class="item">
+                <a href="#">
+            <img src="http://static1.businessinsider.com/image/596fc5f3552be58c008b5567-1080/download.jpg" alt="shirts" class="thumbnail">
+           <div class="caption">
+            <h3>Shirts</h3>
+            <p>our best collection of shirts</p>
+            </div>
+                </a>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <p>Copyright @Lifestyle Stores.All Rights Reserved | Contact Us:+919000000000 </p>
+            </div>
+        </footer>
+    </body>
+</html>
+<html>
+    <head>
+        <title>Lifestyle Stores</title>
+        <link rel="stylesheet" type="text/css" href="assingment 1 css.css">
+    </head>
+    <body>
+        <div class="header">
+            <div class="inner_header">
+                <a href="#" class="logo">Lifestyle Stores</a>
+            <nav>
+               <ul>
+                    <li>login</li>
+                    <li>Sing Up</li>
+                   
+                </ul>
+            </nav>
+            </div>
+        </div>
+        <div class="content">
+        <div id="banner">
+            <div class="inner-banner">
+            <center>
+            <div class="banner_content">
+                <h2>We Sell Lifestyle</h2>
+                <h4>Flat 40% OFF on premium brands</h4>
+                <a href="#" class="button">Shop now</a>
+                    
+            </div>   
+            </div>
+                </center>
+        </div>
+        </div>
+        <div class="container">
+            <div class="item">
+                <a href="#"> <img src="https://assets.pcmag.com/media/images/524622-nikon-d500.jpg?thumb=y" alt="camera" class="thumbnail">
+            <div class="caption">
+                <h3>Cameras</h3>
+            <p>choose amonng the best cameras</p>
+            </div>
+            </a>
+            </div>
+        <div class="item">
+                <a href="#"><img src="http://media.tiffany.com/is/image/Tiffany/1X/20160322_CB_Tiffany_View_All_Browse_Grid_Tile1_3x2Promo_US_CT60_Watches_3x2_v1.jpg?v=20161026164214" alt="watches" class="thumbnail">
+          <div class="caption">
+                    <h3>Watches</h3>
+            <p>
+                Original watches from the best brand
+            </p>
+          </div>
+                </a>
+            </div>
+            <div class="item">
+                <a href="#">
+            <img src="http://static1.businessinsider.com/image/596fc5f3552be58c008b5567-1080/download.jpg" alt="shirts" class="thumbnail">
+           <div class="caption">
+            <h3>Shirts</h3>
+            <p>our best collection of shirts</p>
+            </div>
+                </a>
+            </div>
+        </div>
+        <footer>
+            <div class="container">
+                <p>Copyright @Lifestyle Stores.All Rights Reserved | Contact Us:+919000000000 </p>
+            </div>
+        </footer>
+    </body>
+</html>
